@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Simplify Track",
+    "slug": "simplify-track",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f7f8f5"
+    },
+    "android": {
+      "package": "com.example.simplifytrack"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.simplifytrack"
+    }
+  }
+}
