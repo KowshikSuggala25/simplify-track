@@ -14,6 +14,11 @@
     },
     "ios": {
       "bundleIdentifier": "com.example.simplifytrack"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e8a1f0d1-e487-48bc-8607-ddea687fe9e4"
+      }
     }
   }
 }
